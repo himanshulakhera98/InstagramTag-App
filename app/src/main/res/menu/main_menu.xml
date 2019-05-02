@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+         android:id="@+id/yt"
+         android:icon="@drawable/yt"
+        android:title="YouTube"
+        />
+
+    <item
+        android:id="@+id/rate"
+        android:icon="@drawable/rate"
+        android:title="Rate"
+        />
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/share"
+        android:title="Share"
+        />
+
+
+</menu>
